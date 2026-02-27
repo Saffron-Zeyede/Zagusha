@@ -1,0 +1,44 @@
+# Version control
+.git
+.gitignore
+.gitattributes
+
+# Environment & secrets (never include these!)
+.env
+.env.*
+.env.example
+
+# Development / testing / IDE files
+node_modules
+vendor
+tests
+.phpunit.result.cache
+phpunit.xml
+.editorconfig
+.styleci.yml
+.idea
+.vscode
+*.log
+
+# Laravel caches & runtime files (these get recreated anyway)
+bootstrap/cache/*
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/debugbar/*
+
+# Build artifacts & temp files
+public/hot
+public/storage  # symlink, recreated with artisan storage:link
+*.pid
+*.sock
+
+# Composer & npm lockfiles are fine to include, but ignore large caches
+composer.lock  # ← actually keep this one (good for reproducible builds)
+package-lock.json  # ← same
+yarn.lock
+
+# Misc
+.DS_Store
+Thumbs.db
