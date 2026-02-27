@@ -1,0 +1,151 @@
+{
+  "public/assets/img/blog/blog-1.jpg": {
+    "file": "assets/blog-1-DQJ1aK4z.jpg",
+    "src": "public/assets/img/blog/blog-1.jpg"
+  },
+  "public/assets/img/blog/blog-2.jpg": {
+    "file": "assets/blog-2-DnNSsc1U.jpg",
+    "src": "public/assets/img/blog/blog-2.jpg"
+  },
+  "public/assets/img/blog/blog-3.jpg": {
+    "file": "assets/blog-3-CmEtnaLm.jpg",
+    "src": "public/assets/img/blog/blog-3.jpg"
+  },
+  "public/assets/img/blog/blog-author-2.jpg": {
+    "file": "assets/blog-author-2-BMx85-dU.jpg",
+    "src": "public/assets/img/blog/blog-author-2.jpg"
+  },
+  "public/assets/img/blog/blog-author-3.jpg": {
+    "file": "assets/blog-author-3-0_5LQ10O.jpg",
+    "src": "public/assets/img/blog/blog-author-3.jpg"
+  },
+  "public/assets/img/blog/blog-author.jpg": {
+    "file": "assets/blog-author-N9p1oJVc.jpg",
+    "src": "public/assets/img/blog/blog-author.jpg"
+  },
+  "public/assets/img/hero-carousel/carousel1.jpg": {
+    "file": "assets/carousel1-CVspqCrL.jpg",
+    "src": "public/assets/img/hero-carousel/carousel1.jpg"
+  },
+  "public/assets/img/hero-carousel/carousel3.jpg": {
+    "file": "assets/carousel3-Cbc-xFDZ.jpg",
+    "src": "public/assets/img/hero-carousel/carousel3.jpg"
+  },
+  "public/assets/img/hero-carousel/carousel4.jpg": {
+    "file": "assets/carousel4-TzbpkQZl.jpg",
+    "src": "public/assets/img/hero-carousel/carousel4.jpg"
+  },
+  "public/assets/img/portfolio/app-1.jpg": {
+    "file": "assets/app-1-hoIThK4Y.jpg",
+    "src": "public/assets/img/portfolio/app-1.jpg"
+  },
+  "public/assets/img/portfolio/app-2.jpg": {
+    "file": "assets/app-2-80FVARKj.jpg",
+    "src": "public/assets/img/portfolio/app-2.jpg"
+  },
+  "public/assets/img/portfolio/app-3.jpg": {
+    "file": "assets/app-3-B5f-mGmR.jpg",
+    "src": "public/assets/img/portfolio/app-3.jpg"
+  },
+  "public/assets/img/portfolio/books-1.jpg": {
+    "file": "assets/books-1-BZ_NFyc9.jpg",
+    "src": "public/assets/img/portfolio/books-1.jpg"
+  },
+  "public/assets/img/portfolio/books-2.jpg": {
+    "file": "assets/books-2-Ch9cOxp9.jpg",
+    "src": "public/assets/img/portfolio/books-2.jpg"
+  },
+  "public/assets/img/portfolio/books-3.jpg": {
+    "file": "assets/books-3-JYAgWire.jpg",
+    "src": "public/assets/img/portfolio/books-3.jpg"
+  },
+  "public/assets/img/portfolio/branding-1.jpg": {
+    "file": "assets/branding-1-B9a3CeyE.jpg",
+    "src": "public/assets/img/portfolio/branding-1.jpg"
+  },
+  "public/assets/img/portfolio/branding-2.jpg": {
+    "file": "assets/branding-2-DxOrCroZ.jpg",
+    "src": "public/assets/img/portfolio/branding-2.jpg"
+  },
+  "public/assets/img/portfolio/branding-3.jpg": {
+    "file": "assets/branding-3-BnzEJlB4.jpg",
+    "src": "public/assets/img/portfolio/branding-3.jpg"
+  },
+  "public/assets/img/portfolio/product-1.jpg": {
+    "file": "assets/product-1-BlUmK714.jpg",
+    "src": "public/assets/img/portfolio/product-1.jpg"
+  },
+  "public/assets/img/portfolio/product-2.jpg": {
+    "file": "assets/product-2-DgzCIRl0.jpg",
+    "src": "public/assets/img/portfolio/product-2.jpg"
+  },
+  "public/assets/img/portfolio/product-3.jpg": {
+    "file": "assets/product-3-B3ABVvEQ.jpg",
+    "src": "public/assets/img/portfolio/product-3.jpg"
+  },
+  "public/assets/img/team/team-1.jpg": {
+    "file": "assets/team-1-CrZxDpZ0.jpg",
+    "src": "public/assets/img/team/team-1.jpg"
+  },
+  "public/assets/img/team/team-2.jpg": {
+    "file": "assets/team-2-C7RBgmKY.jpg",
+    "src": "public/assets/img/team/team-2.jpg"
+  },
+  "public/assets/img/team/team-3.jpg": {
+    "file": "assets/team-3-IccgtJJU.jpg",
+    "src": "public/assets/img/team/team-3.jpg"
+  },
+  "public/assets/img/team/team-4.jpg": {
+    "file": "assets/team-4-D_NsSIes.jpg",
+    "src": "public/assets/img/team/team-4.jpg"
+  },
+  "public/assets/img/testimonials/testimonials-2.jpg": {
+    "file": "assets/testimonials-2-cTRH-lUa.jpg",
+    "src": "public/assets/img/testimonials/testimonials-2.jpg"
+  },
+  "public/assets/img/vision.jpg": {
+    "file": "assets/vision-CRqALain.jpg",
+    "src": "public/assets/img/vision.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CVmVpdmd.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "assets": [
+      "assets/vision-CRqALain.jpg",
+      "assets/blog-1-DQJ1aK4z.jpg",
+      "assets/blog-author-N9p1oJVc.jpg",
+      "assets/blog-2-DnNSsc1U.jpg",
+      "assets/blog-author-2-BMx85-dU.jpg",
+      "assets/blog-3-CmEtnaLm.jpg",
+      "assets/blog-author-3-0_5LQ10O.jpg",
+      "assets/carousel1-CVspqCrL.jpg",
+      "assets/carousel3-Cbc-xFDZ.jpg",
+      "assets/carousel4-TzbpkQZl.jpg",
+      "assets/app-1-hoIThK4Y.jpg",
+      "assets/product-1-BlUmK714.jpg",
+      "assets/branding-1-B9a3CeyE.jpg",
+      "assets/books-1-BZ_NFyc9.jpg",
+      "assets/app-2-80FVARKj.jpg",
+      "assets/product-2-DgzCIRl0.jpg",
+      "assets/branding-2-DxOrCroZ.jpg",
+      "assets/books-2-Ch9cOxp9.jpg",
+      "assets/app-3-B5f-mGmR.jpg",
+      "assets/product-3-B3ABVvEQ.jpg",
+      "assets/branding-3-BnzEJlB4.jpg",
+      "assets/books-3-JYAgWire.jpg",
+      "assets/testimonials-2-cTRH-lUa.jpg",
+      "assets/team-1-CrZxDpZ0.jpg",
+      "assets/team-2-C7RBgmKY.jpg",
+      "assets/team-3-IccgtJJU.jpg",
+      "assets/team-4-D_NsSIes.jpg"
+    ]
+  }
+}
